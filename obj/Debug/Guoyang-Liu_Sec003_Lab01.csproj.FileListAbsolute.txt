@@ -1,0 +1,6 @@
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_Lab01\bin\Debug\Guoyang-Liu_Sec003_Lab01.exe.config
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_Lab01\bin\Debug\Guoyang-Liu_Sec003_Lab01.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_Lab01\bin\Debug\Guoyang-Liu_Sec003_Lab01.pdb
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_Lab01\obj\Debug\Guoyang-Liu_Sec003_Lab01.csprojAssemblyReference.cache
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_Lab01\obj\Debug\Guoyang-Liu_Sec003_Lab01.exe
+E:\SET2019\S4\1.Programming 3\Assignments\Guoyang-Liu_Sec003_Lab01\obj\Debug\Guoyang-Liu_Sec003_Lab01.pdb
